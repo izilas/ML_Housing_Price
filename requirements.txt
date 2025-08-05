@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+
+=> Kaggle csv file can be found here:
+https://www.kaggle.com/competitions/home-data-for-ml-course/data
